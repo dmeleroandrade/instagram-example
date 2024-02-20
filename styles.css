@@ -1,11 +1,13 @@
 body {
 	background-color: grey;
+	margin: 0;
 }
 
 .title {
 	width: 100%;
 	text-align: center ;
 	background-color: rgb(182, 190, 218);
+	margin: 0;
 }
 
 .feed {
@@ -26,10 +28,11 @@ body {
 #hola {
 	padding-left: 0.5em;
 }
-.img1 {
+section img {
 	margin-left: 2.89em;
 	border-radius: 1em;
 	margin-bottom: -5px;
+	
 }
 footer {
 	text-align: center;
